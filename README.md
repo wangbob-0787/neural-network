@@ -6,7 +6,7 @@
 <div align="center">
     <img src="static/pic/千米转化为英里的预测器.png" alt="千米转化为英里的预测器" width="50%">
 </div>
-英里=千米\times C
+$英里=千米\times C$
 训练数据如下：
 
 |真实示例|千米|英里|
